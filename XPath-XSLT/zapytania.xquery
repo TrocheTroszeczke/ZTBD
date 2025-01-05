@@ -30,3 +30,6 @@
 (:zad.35:)
 sum(doc("C:/Users/Ania/Downloads/XPath-XSLT/XPath-XSLT/zesp_prac.xml")/ZESPOLY/
 ROW[PRACOWNICY/ROW/NAZWISKO = 'BRZEZINSKI']/PRACOWNICY/ROW/PLACA_POD)
+
+
+
